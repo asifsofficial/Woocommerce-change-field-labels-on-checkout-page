@@ -1,4 +1,4 @@
-# Woocommerce-change-field-labels-on-checkout-page
+# Woocommerce change field labels on checkout page
 
 
 ## Location:
